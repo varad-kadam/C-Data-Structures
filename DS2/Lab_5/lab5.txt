@@ -1,0 +1,10 @@
+test
+file
+with
+10 lines
+&
+weird
+symbols
+*(^$@@%)*^$*
+cool
+.
